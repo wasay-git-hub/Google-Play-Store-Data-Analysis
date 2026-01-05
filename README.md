@@ -24,7 +24,7 @@ This project involves performing **Exploratory Data Analysis (EDA)** on the Goog
 ## Tools & Technologies
 - Python
 - Pandas & NumPy (data manipulation)
-- Matplotlib & Seaborn (data visualization)
+- Matplotlib and Plotly (data visualization)
 - Jupyter Notebook (analysis environment)
 
 ## Insights
